@@ -1,0 +1,10 @@
+* DONE checkin cabal [[file:~/virtualEnvs/hobbes/.virthualenv/cabal/config][config]], [[file:~/virtualEnvs/hobbes/.virthualenv/cabal/world][world]]
+  CLOSED: [2012-03-08 Thu 20:35]
+  - State "DONE"       from "TODO"       [2012-03-08 Thu 20:36] \\
+    is this all the cabal configuration that i need to store?
+
+  - State "TODO"       from ""           [2012-03-08 Thu 20:28] \\
+    
+  :PROPERTIES:
+  :CUSTOM_ID: 7173fca3-b94a-4f0a-a010-a667b618ac3d
+  :END:

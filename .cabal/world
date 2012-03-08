@@ -1,0 +1,11 @@
+persistent-postgresql -any
+statistics -any
+hstatistics -any
+hlist -any
+reflection -any
+safe -any
+plugins -any
+data-lens -any
+stream-fusion -any
+remote -any
+hmatrix -any
