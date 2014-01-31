@@ -1,3 +1,11 @@
+* TODO haskell [[https://github.com/nathanmarz/storm/wiki/Using-non-JVM-languages-with-Storm][storm integration]]                      :distributed_computing:
+  - perhaps can reuse components from [[http://www.haskell.org/haskellwiki/Cloud_Haskell][cloud-haskell]] (aka [[http://hackage.haskell.org/package/distributed-process][distributed-process]])
+
+  - State "TODO"       from ""           [2013-01-09 Wed 20:39] \\
+
+  :PROPERTIES:
+  :CUSTOM_ID: f4822898-87e4-4d9f-b77a-7996915f831b
+  :END:
 * DONE checkin cabal [[file:~/virtualEnvs/hobbes/.virthualenv/cabal/config][config]], [[file:~/virtualEnvs/hobbes/.virthualenv/cabal/world][world]]
   CLOSED: [2012-03-08 Thu 20:35]
   - State "DONE"       from "TODO"       [2012-03-08 Thu 20:36] \\
